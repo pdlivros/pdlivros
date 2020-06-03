@@ -1,3 +1,3 @@
 # pdlivros
 
-pdlivros.com/pdlivros/LDJ.pdf
+pdlivros.github.io/pdlivros/LDJ.pdf
