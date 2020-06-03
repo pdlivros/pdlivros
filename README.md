@@ -1,3 +1,3 @@
 # pdlivros
 
-pdlivros.com/pdlivros/ldj.pdf
+pdlivros.com/pdlivros/LDJ.pdf
